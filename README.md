@@ -26,8 +26,7 @@ In order to do this, you **do not** need to create new forks of these projects. 
 - [ ] Go into your project folder, make a new branch `firstname-lastname`
 - [ ] Add your first and last name to the README.md file in the project and save.
 - [ ] add/commit/and push to your own branch  **Be sure to push to your branch!**
-- [ ] Create a Pull-Request to submit your work
-  - [ ] Use your own student fork as the base (compare across forks, base-fork -> master).
+- [ ] Create a Pull-Request to submit your work  - [ ] Use your own student fork as the base (compare across forks, base-fork -> master).
   - [ ] Add your PM as a reviewer on the Pull-Request
 - [ ] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
@@ -41,3 +40,4 @@ In order to do this, you **do not** need to create new forks of these projects. 
 
 - [ ] Research and setup SSH keys with Github, so that you do not need to input your username/password each time you push. 
 
+vivienne-johnson
